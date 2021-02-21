@@ -1,10 +1,10 @@
 # BeeOne
 
-Kurumsal Kaynak Planlaması (KKP) Uygulaması / Kurumsal Kaynak Planlaması (ERP) Uygulaması
+Kurumsal Kaynak Planlaması (ERP) Uygulaması 
 
-Bu uygulama geliştirme aşamasındadır. / Bu uygulama geliştirme aşamasındadır.
+Bu uygulama geliştirme aşamasındadır.
 
-Bu bir organizasyondur. Link ile erişim sağlayabilirsiniz. / Bu bir organizasyondur. Bağlantıyla erişebilirsiniz.
+Bu bir organizasyondur. Link ile erişim sağlayabilirsiniz. 
 
 https://github.com/BeeOneErp
 
