@@ -2,8 +2,6 @@
 
 Kurumsal Kaynak Planlaması (ERP) Uygulaması 
 
-Bu uygulama geliştirme aşamasındadır.
-
 Bu bir organizasyondur. Link ile erişim sağlayabilirsiniz. 
 
 https://github.com/BeeOneErp
